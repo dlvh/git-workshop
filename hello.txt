@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, Berkeley
+=======
+hahahahaha fakkkk this lolllll iam a mad branch
+>>>>>>> dev
